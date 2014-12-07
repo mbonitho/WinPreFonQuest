@@ -1,0 +1,191 @@
+﻿<UserControl x:Class="DepthsOfWinPreFon.Sprites.GroundType1"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Viewbox xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Stretch="Uniform">
+            <Canvas Name="svg2" Width="300" Height="300">
+                <Canvas.Resources/>
+                <!--Unknown tag: sodipodi:namedview-->
+                <!--Unknown tag: metadata-->
+                <Canvas Name="layer1">
+                    <Canvas.RenderTransform>
+                        <TranslateTransform X="0" Y="-752.36218"/>
+                    </Canvas.RenderTransform>
+                    <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="1" Canvas.Top="753" Width="300" Height="300" Name="rect2995" Fill="#FFD38D5F"/>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path2997" Fill="#FFFFB380">
+                        <Path.Data>
+                            <PathGeometry Figures="m 44.435297 38.941439 a 5.0507627 2.7779195 0 1 1 -0.07383 -0.32155" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path2999" Fill="#FFFFB380">
+                        <Path.Data>
+                            <PathGeometry Figures="m 160.0989 244.81093 a 4.5456862 2.0203052 0 1 1 -0.0664 -0.23386" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3001" Fill="#FFFFB380">
+                        <Path.Data>
+                            <PathGeometry Figures="m 217.17481 98.472559 a 3.5355339 3.7880721 0 1 1 -0.0517 -0.438476" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3003" Fill="#FFFFB380">
+                        <Path.Data>
+                            <PathGeometry Figures="m 82.318297 214.54029 a 4.0406103 1.5152289 0 1 1 -0.05906 -0.17539" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3005" Fill="#FF803300">
+                        <Path.Data>
+                            <PathGeometry Figures="m 104.54051 93.355927 a 4.5456862 1.0101526 0 1 1 -0.0665 -0.116928" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3007" Fill="#FFFF7F2A">
+                        <Path.Data>
+                            <PathGeometry Figures="m 155.55437 208.17593 a 4.0406103 2.2728431 0 1 1 -0.0591 -0.26308" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3009" Fill="#FFFF7F2A">
+                        <Path.Data>
+                            <PathGeometry Figures="m 114.13753 154.87341 a 4.2931485 2.5253813 0 1 1 -0.0627 -0.29232" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3011" Fill="#FFFF7F2A">
+                        <Path.Data>
+                            <PathGeometry Figures="m 223.7408 165.07475 a 3.5355339 4.7982244 0 0 0 -0.0517 -0.55541" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3013" Fill="#FFFF7F2A">
+                        <Path.Data>
+                            <PathGeometry Figures="m 162.11807 43.251557 a 5.0507627 2.5253813 0 1 1 -0.0738 -0.292318" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3015" Fill="#FFFF7F2A">
+                        <Path.Data>
+                            <PathGeometry Figures="m 45.444879 145.37878 a 5.3033009 1.0101526 0 1 1 -0.07752 -0.11693" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3017" Fill="#FFFF7F2A">
+                        <Path.Data>
+                            <PathGeometry Figures="m 256.05997 45.305802 a 6.0609155 2.0203052 0 1 1 -0.0886 -0.233855" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3019" Fill="#FFA05A2C">
+                        <Path.Data>
+                            <PathGeometry Figures="m 256.06567 271.91534 a 3.5355339 4.5456862 0 0 0 -0.0517 -0.52617" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3021" Fill="#FFA05A2C">
+                        <Path.Data>
+                            <PathGeometry Figures="m 192.93001 198.0744 a 4.0406103 2.2728431 0 1 1 -0.0591 -0.26309" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3023" Fill="#FFA05A2C">
+                        <Path.Data>
+                            <PathGeometry Figures="m 92.425531 187.43386 a 1.5152289 2.7779195 0 1 1 -0.02215 -0.32155" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3025" Fill="#FFA05A2C">
+                        <Path.Data>
+                            <PathGeometry Figures="m 139.39478 152.92099 a 2.7779195 1.5152289 0 1 1 -0.0406 -0.17539" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3027" Fill="#FFA05A2C">
+                        <Path.Data>
+                            <PathGeometry Figures="m 173.73767 82.14243 a 3.7880721 2.5253813 0 1 1 -0.0554 -0.292318" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3032" Fill="#FFDEAA87">
+                        <Path.Data>
+                            <PathGeometry Figures="m 67.669945 59.751383 a 4.5456862 1.2626907 0 1 1 -0.06645 -0.146159" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3034" Fill="#FFDEAA87">
+                        <Path.Data>
+                            <PathGeometry Figures="m 51.506365 289.29158 a 5.0507627 1.5152289 0 1 1 -0.07383 -0.17539" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3036" Fill="#FFDEAA87">
+                        <Path.Data>
+                            <PathGeometry Figures="m 31.306167 200.02683 a 3.7880721 3.2829957 0 1 1 -0.05537 -0.38001" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3038" Fill="#FFDEAA87">
+                        <Path.Data>
+                            <PathGeometry Figures="m 263.64296 132.17892 a 3.0304577 2.0203052 0 1 1 -0.0443 -0.23385" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3040" Fill="#FFDEAA87">
+                        <Path.Data>
+                            <PathGeometry Figures="m 280.81271 207.40135 a 4.2931485 2.5253813 0 1 1 -0.0627 -0.29232" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Path.RenderTransform>
+                    </Path>
+                </Canvas>
+            </Canvas>
+        </Viewbox>
+    </Grid>
+</UserControl>

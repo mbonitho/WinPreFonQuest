@@ -1,0 +1,54 @@
+﻿<UserControl x:Class="DepthsOfWinPreFon.Sprites.EctoplasmeSprite"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Viewbox xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Stretch="Uniform">
+            <Canvas Name="svg2" Width="300" Height="300">
+                <Canvas.Resources/>
+                <!--Unknown tag: sodipodi:namedview-->
+                <!--Unknown tag: metadata-->
+                <Canvas Name="layer1">
+                    <Canvas.RenderTransform>
+                        <TranslateTransform X="0" Y="-752.36218"/>
+                    </Canvas.RenderTransform>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path2991" StrokeThickness="15" Stroke="#FF9E00B5" StrokeMiterLimit="4" StrokeDashArray="15.49999992,61.99999969" StrokeLineJoin="Miter" StrokeStartLineCap="Flat" StrokeEndLineCap="Flat">
+                        <Path.Data>
+                            <PathGeometry Figures="m 154.04826 160.09387 c 2.61569 -1.06307 2.72349 3.00142 1.7669 4.34745 -2.59231 3.64766 -8.02068 2.11889 -10.46179 -0.81366 -4.36658 -5.24564 -1.85548 -13.022 3.39421 -16.57613 7.70412 -5.21582 18.10181 -1.61369 22.69047 5.97476 6.11596 10.11421 1.38289 23.21087 -8.55531 28.80481 -12.5062 7.0394 -28.33422 1.15813 -34.91915 -11.13585 -7.97524 -14.88966 -0.93693 -33.46569 13.7164 -41.0335 17.26845 -8.9184 38.60222 -0.71798 47.14784 16.29696 9.86626 19.64441 0.50053 43.74212 -18.8775 53.26218 -22.01855 10.81728 -48.88442 0.28411 -59.37653 -21.45806 -11.770554 -24.39143 -0.0685 -54.02843 24.03861 -65.49086 26.76342 -12.725477 59.17374 0.14661 71.6052 26.61915 13.68164 29.13475 -0.36126 64.32006 -29.1997 77.71955 -31.50558 14.63875 -69.46716 -0.57559 -83.833889 -31.78026 -15.596622 -33.876 0.789632 -74.61489 34.360809 -89.948227 36.24613 -16.555103 79.76313 1.003464 96.06257 36.941357 17.51408 38.61601 -1.21712 84.9118 -39.52191 102.17691 C 143.09982 252.47392 94.024669 232.56983 75.794237 191.898 56.361045 148.54282 77.438238 96.687855 120.47724 77.4924 c 45.72454 -20.393207 100.35971 1.857277 120.51994 47.26356 21.35347 48.09377 -2.07046 105.50949 -49.8441 126.63428 C 140.69016 273.70417 80.493602 249.10666 58.404453 198.96558 35.129866 146.13362 60.901067 83.155969 113.40966 60.102616 168.6106 35.867218 234.36955 62.812213 258.38697 117.68837 283.58331 175.25822 255.46444 243.79867 198.22066 268.78002 138.28197 294.93744 66.959844 265.6446 41.01467 206.03316 13.896072 143.72567 44.362933 69.621732 106.34208 42.712832 171.01832 14.632959 247.90421 46.273907 275.77675 110.62079 304.81798 177.66574 272.0029 257.33371 205.28824 286.1698 135.87461 316.17248 53.424468 282.1832 23.624886 213.10075 11.828974 185.75504 9.0180292 154.91264 15.554572 125.86611" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.59603011 -0.80296209 0.80296209 0.59603011 -74.540924 920.58939"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path2985" Fill="#FFFF0000">
+                        <Path.Data>
+                            <PathGeometry Figures="M 145.96704 93.928879 A 59.093925 73.741135 0 0 1 27.781449 94.573682" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.73290598 0 0 0.73290598 31.158844 750.68098"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path2987" Fill="#FFFF0000">
+                        <Path.Data>
+                            <PathGeometry Figures="m 226.27416 185.09515 a 23.486046 23.486046 0 0 1 -46.97119 0.20537" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="1.5131112 0 0 1.5131112 -110.58513 550.74277"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path2989" Fill="#FFFF0000">
+                        <Path.Data>
+                            <PathGeometry Figures="m 173.74624 249.23984 a 24.243662 83.590118 0 0 1 -48.4864 0.73092" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.73290598 0 0 0.73290598 31.158844 748.83012"/>
+                        </Path.RenderTransform>
+                    </Path>
+                </Canvas>
+            </Canvas>
+        </Viewbox>
+    </Grid>
+</UserControl>

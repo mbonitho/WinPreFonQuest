@@ -1,0 +1,741 @@
+﻿<UserControl x:Class="DepthsOfWinPreFon.Sprites.GrassSprite"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Viewbox xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Stretch="Uniform">
+            <Canvas Name="svg3045" Width="300" Height="300">
+                <Canvas.Resources/>
+                <!--Unknown tag: sodipodi:namedview-->
+                <!--Unknown tag: metadata-->
+                <Canvas Name="layer1">
+                    <Canvas.RenderTransform>
+                        <TranslateTransform X="0" Y="-752.36218"/>
+                    </Canvas.RenderTransform>
+                    <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="0" Canvas.Top="0" Width="301" Height="301" Name="rect3053" Fill="#FF00FF00">
+                        <Rectangle.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Rectangle.RenderTransform>
+                    </Rectangle>
+                    <Canvas Name="g4306">
+                        <Canvas.RenderTransform>
+                            <TranslateTransform X="-3.5714286" Y="-145"/>
+                        </Canvas.RenderTransform>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 24.42093 859.22027"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path30551" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 40.330834 861.07132"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path30557" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08487643 0.00408462 -0.11185175 0.42486845 85.047761 862.61913"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path30554" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 74.676022 862.79889"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path30550" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08492693 -0.00388801 0.10646766 0.42512124 65.620404 865.42167"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path30559" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 111.04151 864.09456"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305548" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.13937037 0 0 0.41478317 129.24596 869.94168"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path30558" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.32540577 154.98315 898.34664"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path30552" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 172.15575 866.46997"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path30555" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08438393 0.00565 -0.15471729 0.42240313 249.91313 867.57796"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305545" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.13397457 0 0 0.39818451 188.28721 877.54294"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305517" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 227.71413 868.84538"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305543" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 264.80541 856.62007"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305511" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08454071 -0.00520395 0.14250304 0.42318794 217.05052 871.59227"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305552" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 9.5942044 898.934"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path1305517" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 25.504109 900.78505"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305576" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08487643 0.00408462 -0.11185175 0.42486845 70.221032 902.33286"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305541" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 59.849297 902.51262"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305504" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08492693 -0.00388801 0.10646766 0.42512124 50.793679 905.1354"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305592" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 96.214781 903.80829"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055483" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.13937037 0 0 0.41478317 114.41923 909.65541"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305582" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.32540577 140.15642 938.06037"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305522" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 157.32902 906.1837"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055451" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.13397457 0 0 0.39818451 173.46048 917.25667"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305556" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08438393 0.00565 -0.15471729 0.42240313 235.0864 907.29169"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055178" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 212.8874 908.55911"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055115" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08454071 -0.00520395 0.14250304 0.42318794 202.22379 911.306"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path2305576" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 23.165633 928.74044"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3305511" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 39.075533 930.59148"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305578" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08487643 0.00408462 -0.11185175 0.42486845 83.792463 932.13929"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305549" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 73.420723 932.31906"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305502" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08492693 -0.00388801 0.10646766 0.42512124 64.365103 934.94183"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305597" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 109.78621 933.61473"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055489" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.13937037 0 0 0.41478317 127.99066 939.46184"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305585" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.32540577 153.72785 967.86681"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305524" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 170.90045 935.99014"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055453" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.13397457 0 0 0.39818451 187.03191 947.06311"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305551" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08438393 0.00565 -0.15471729 0.42240313 248.65783 937.09812"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055172" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 226.45883 938.36554"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055493" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 254.97869 924.61327"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055113" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08454071 -0.00520395 0.14250304 0.42318794 215.79522 941.11243"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055041" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08492693 -0.00388801 0.10646766 0.42512124 247.17837 857.71588"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055921" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 277.77274 896.1025"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055028" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08492693 -0.00388801 0.10646766 0.42512124 245.92307 927.23603"/>
+                            </Path.RenderTransform>
+                        </Path>
+                    </Canvas>
+                    <Canvas Name="g43067">
+                        <Canvas.RenderTransform>
+                            <TranslateTransform X="0.54938339" Y="-32.026087"/>
+                        </Canvas.RenderTransform>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305542" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 24.42093 859.22027"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055177" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 40.330834 861.07132"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305579" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08487643 0.00408462 -0.11185175 0.42486845 85.047761 862.61913"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055431" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 74.676022 862.79889"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305509" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08492693 -0.00388801 0.10646766 0.42512124 65.620404 865.42167"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path305598" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 111.04151 864.09456"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055486" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.13937037 0 0 0.41478317 129.24596 869.94168"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055850" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.32540577 154.98315 898.34664"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055228" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 172.15575 866.46997"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055560" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08438393 0.00565 -0.15471729 0.42240313 249.91313 867.57796"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055452" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.13397457 0 0 0.39818451 188.28721 877.54294"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055174" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 227.71413 868.84538"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055438" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 264.80541 856.62007"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055116" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08454071 -0.00520395 0.14250304 0.42318794 217.05052 871.59227"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055525" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 9.5942044 898.934"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055170" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 25.504109 900.78505"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055769" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08487643 0.00408462 -0.11185175 0.42486845 70.221032 902.33286"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055410" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 59.849297 902.51262"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055040" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08492693 -0.00388801 0.10646766 0.42512124 50.793679 905.1354"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055926" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 96.214781 903.80829"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path30554831" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.13937037 0 0 0.41478317 114.41923 909.65541"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055823" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.32540577 140.15642 938.06037"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path43055228" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 157.32902 906.1837"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path30554519" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.13397457 0 0 0.39818451 173.46048 917.25667"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055563" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08438393 0.00565 -0.15471729 0.42240313 235.0864 907.29169"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path30551784" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 212.8874 908.55911"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path30551154" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08454071 -0.00520395 0.14250304 0.42318794 202.22379 911.306"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055766" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 23.165633 928.74044"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055110" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 39.075533 930.59148"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055786" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08487643 0.00408462 -0.11185175 0.42486845 83.792463 932.13929"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055496" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 73.420723 932.31906"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055021" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08492693 -0.00388801 0.10646766 0.42512124 64.365103 934.94183"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055978" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 109.78621 933.61473"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path30554894" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.13937037 0 0 0.41478317 127.99066 939.46184"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055859" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.32540577 153.72785 967.86681"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055246" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 170.90045 935.99014"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path30554533" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.13397457 0 0 0.39818451 187.03191 947.06311"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path3055517" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08438393 0.00565 -0.15471729 0.42240313 248.65783 937.09812"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path30551728" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 226.45883 938.36554"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path30554938" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 254.97869 924.61327"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path30551132" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08454071 -0.00520395 0.14250304 0.42318794 215.79522 941.11243"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path30550419" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08492693 -0.00388801 0.10646766 0.42512124 247.17837 857.71588"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path30559211" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.0854124 0 0 0.42755137 277.77274 896.1025"/>
+                            </Path.RenderTransform>
+                        </Path>
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path30550283" Fill="#FF008000" StrokeThickness="1" Stroke="#FF000000" StrokeMiterLimit="4">
+                            <Path.Data>
+                                <PathGeometry Figures="m 95.964493 119.68777 40.741827 84.56401 40.74184 84.56402 -93.6055 -6.99855 -93.6054996 -6.99854 52.8636656 -77.56547 z" FillRule="NonZero"/>
+                            </Path.Data>
+                            <Path.RenderTransform>
+                                <MatrixTransform Matrix="0.08492693 -0.00388801 0.10646766 0.42512124 245.92307 927.23603"/>
+                            </Path.RenderTransform>
+                        </Path>
+                    </Canvas>
+                </Canvas>
+            </Canvas>
+        </Viewbox>
+    </Grid>
+</UserControl>

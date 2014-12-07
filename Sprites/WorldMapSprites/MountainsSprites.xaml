@@ -1,0 +1,59 @@
+﻿<UserControl x:Class="DepthsOfWinPreFon.Sprites.MountainsSprites"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Viewbox xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Stretch="Uniform">
+            <Canvas Name="svg4489" Width="300" Height="300">
+                <Canvas.Resources/>
+                <!--Unknown tag: sodipodi:namedview-->
+                <!--Unknown tag: metadata-->
+                <Canvas Name="layer1">
+                    <Canvas.RenderTransform>
+                        <TranslateTransform X="0" Y="-752.36218"/>
+                    </Canvas.RenderTransform>
+                    <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="-1" Width="304" Height="303" Name="rect4497" Fill="#FFB35D07" StrokeThickness="1" Stroke="#FF2C9512" StrokeMiterLimit="4">
+                        <Rectangle.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Rectangle.RenderTransform>
+                    </Rectangle>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path50070" Fill="#FFB32400" StrokeThickness="1" Stroke="#FF640000" StrokeMiterLimit="4">
+                        <Path.Data>
+                            <PathGeometry Figures="M 68.690372 93.423804 119.3249 21.437128 200.03414 152.95287 237.05917 232.797 82.808572 236.93538 -4.8509806 229.07793 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.4254113 0 0 0.4254113 0.10548057 743.33968"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path50076" Fill="#FFB32400" StrokeThickness="1" Stroke="#FF640000" StrokeMiterLimit="4">
+                        <Path.Data>
+                            <PathGeometry Figures="M 68.690372 93.423804 119.3249 21.437128 200.03414 152.95287 237.05917 232.797 82.808572 236.93538 -4.8509806 229.07793 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.80142539 0 0 0.80142539 132.3708 722.8074"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path5007" Fill="#FFB32400" StrokeThickness="1" Stroke="#FF640000" StrokeMiterLimit="4">
+                        <Path.Data>
+                            <PathGeometry Figures="M 68.690372 93.423804 119.3249 21.437128 200.03414 152.95287 237.05917 232.797 82.808572 236.93538 -4.8509806 229.07793 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="-20.708127" Y="731.65405"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path50075" Fill="#FFB32400" StrokeThickness="1" Stroke="#FF640000" StrokeMiterLimit="4">
+                        <Path.Data>
+                            <PathGeometry Figures="M 68.690372 93.423804 119.3249 21.437128 200.03414 152.95287 237.05917 232.797 82.808572 236.93538 -4.8509806 229.07793 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <TranslateTransform X="45.520312" Y="814.58453"/>
+                        </Path.RenderTransform>
+                    </Path>
+                </Canvas>
+            </Canvas>
+        </Viewbox>
+    </Grid>
+</UserControl>

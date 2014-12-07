@@ -1,0 +1,331 @@
+﻿<UserControl x:Class="DepthsOfWinPreFon.Sprites.SandSprite"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Viewbox xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Stretch="Uniform">
+            <Canvas Name="svg5041" Width="300" Height="300">
+                <Canvas.Resources/>
+                <!--Unknown tag: sodipodi:namedview-->
+                <!--Unknown tag: metadata-->
+                <Canvas Name="layer1">
+                    <Canvas.RenderTransform>
+                        <TranslateTransform X="0" Y="-752.36218"/>
+                    </Canvas.RenderTransform>
+                    <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="-1" Canvas.Top="-1" Width="302" Height="303" Name="rect5049" Fill="#FFFFEEAA" StrokeThickness="1" StrokeMiterLimit="4">
+                        <Rectangle.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Rectangle.RenderTransform>
+                    </Rectangle>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path5051" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 53.657066 808.25139"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path50512" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 105.24871 824.31949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path50518" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 108.24871 797.81949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path50516" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 85.748708 880.81949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path50510" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 145.24871 888.81949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505124" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 244.24871 890.81949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505109" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 156.74871 803.31949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505100" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 171.24871 932.81949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505161" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 69.748708 939.31949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path50513" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 11.248708 857.81949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505189" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 5.2487085 772.81949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505134" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 245.24871 773.31949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path50514" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 194.74871 853.31949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505160" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 125.74871 840.31949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505166" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 120.24871 902.81949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path50511" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 143.74871 1001.3195"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505184" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 213.74871 1002.3195"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path50519" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 233.24871 954.81949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505163" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 38.748708 1004.8195"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path50517" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 14.748708 940.81949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505188" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 135.74871 947.31949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505129" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 185.74871 985.81949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505113" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 213.24871 935.81949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path50515" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 197.24871 893.31949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505198" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 192.74871 779.31949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505140" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 131.74871 755.81949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505176" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 59.748708 756.31949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505136" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 -6.7512915 813.81949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505115" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 51.248708 882.31949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505142" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 -9.2512915 1004.3195"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path5051097" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 96.248708 986.31949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505137" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 261.24871 930.31949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505126" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 79.748708 847.81949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505101" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 225.24871 822.31949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505165" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 249.74871 855.31949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505175" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 268.24871 818.81949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505141" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 240.24871 753.81949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                    <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path505120" Fill="#FFAA8800">
+                        <Path.Data>
+                            <PathGeometry Figures="m 81.822353 73.72583 a 2.0203052 3.0304577 0 1 1 -4.04061 0 2.0203052 3.0304577 0 1 1 4.04061 0 z" FillRule="NonZero"/>
+                        </Path.Data>
+                        <Path.RenderTransform>
+                            <MatrixTransform Matrix="0.3101586 0 0 0.2108174 32.248708 758.31949"/>
+                        </Path.RenderTransform>
+                    </Path>
+                </Canvas>
+            </Canvas>
+        </Viewbox>
+    </Grid>
+</UserControl>

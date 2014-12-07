@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="DepthsOfWinPreFon.Sprites.StairsSprite"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Viewbox xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Stretch="Uniform">
+            <Canvas Name="svg2" Width="300" Height="300">
+                <Canvas.Resources/>
+                <!--Unknown tag: sodipodi:namedview-->
+                <!--Unknown tag: metadata-->
+                <Canvas Name="layer1">
+                    <Canvas.RenderTransform>
+                        <TranslateTransform X="0" Y="-752.36218"/>
+                    </Canvas.RenderTransform>
+                    <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="20" Canvas.Top="776" Width="260" Height="258" Name="rect2985" Fill="#FF1A1A1A"/>
+                    <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="20" Canvas.Top="70" Width="58" Height="211" Name="rect2987" Fill="#FF501616">
+                        <Rectangle.RenderTransform>
+                            <TranslateTransform X="0" Y="752.36218"/>
+                        </Rectangle.RenderTransform>
+                    </Rectangle>
+                    <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="78" Canvas.Top="867" Width="58" Height="166" Name="rect29871" Fill="#FF501616"/>
+                    <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="137" Canvas.Top="908" Width="58" Height="125" Name="rect29877" Fill="#FF501616"/>
+                    <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="196" Canvas.Top="943" Width="58" Height="90" Name="rect29874" Fill="#FF501616"/>
+                    <Rectangle xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Canvas.Left="253" Canvas.Top="964" Width="27" Height="69" Name="rect29870" Fill="#FF501616"/>
+                </Canvas>
+            </Canvas>
+        </Viewbox>
+    </Grid>
+</UserControl>
