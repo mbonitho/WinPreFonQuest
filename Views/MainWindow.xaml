@@ -99,7 +99,15 @@
             </Grid>
         </Viewbox>
 
-        <Label x:Name="lblStory" Content="" HorizontalAlignment="Stretch" Margin="10,10,10,10" Grid.Row="1" Grid.ColumnSpan="2" VerticalAlignment="Stretch" FontSize="18" BorderBrush="White" Background="White"/>
+        <Grid Grid.Row="1" Grid.ColumnSpan="2">
+            <Grid.RowDefinitions>
+                <RowDefinition MinHeight="150"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Label x:Name="lblStory" Content="" HorizontalAlignment="Stretch" Grid.Row="0" Margin="10,10,10,10" VerticalAlignment="Stretch" FontSize="18" BorderBrush="White" Background="White"/>
+            <TextBox x:Name="txtSay" Text="" HorizontalAlignment="Stretch" Grid.Row="1" Margin="10,10,10,10" VerticalAlignment="Stretch" FontSize="18" Background="White" MaxHeight="40" KeyUp="txtSay_KeyUp"/>
+        </Grid>
+
         <Grid Grid.Column="1" HorizontalAlignment="Stretch" Margin="10,10,10,10" VerticalAlignment="Stretch" RenderTransformOrigin="0.503,0.672">
             <Grid.RowDefinitions>
                 <RowDefinition/>

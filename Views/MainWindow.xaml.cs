@@ -25,6 +25,7 @@ namespace DepthsOfWinPreFon
     public partial class MainWindow : Window
     {
         private MainMenu menu;
+        private BattleView battleView;
 
         public Controller Ctrl { get; set; }
 
@@ -212,6 +213,19 @@ namespace DepthsOfWinPreFon
                 Draw();
             }
                 
+        }
+
+        /// <summary>
+        /// TODO Displays the battle view on the window
+        /// </summary>
+        private void DisplayBattleView()
+        {
+            battleView = new BattleView();
+            battleView.Margin = new Thickness(10);
+            //battleView.lblNewGame.MouseUp += lblNewGame_MouseUp;
+            Grid.SetColumnSpan(menu, 2);
+            Grid.SetRowSpan(menu, 2);
+            this.WindowGrid.Children.Add(menu);
         }
 
         private void Window_ContentRendered(object sender, EventArgs e)
@@ -625,71 +639,60 @@ namespace DepthsOfWinPreFon
             }
         }
 
-        public void Attack()
+        public void AskForAttack()
+        {
+            Question q = new Question("Attack on which side ?", new List<string>() { "E", "N", "W", "S" }, Attack);
+            Ctrl.CurrentQuestion = q;
+            WriteStory(q.ToString());
+        }
+
+        public void Attack(string side)
         {
             //check the four squares around hero and see if there's something to attack
             string str = "There is nothing here.";
+            Tile tileAttacked;
 
-            Tile tileLeft = Ctrl.getTileLeft();
-            Tile tileUp = Ctrl.getTileUp();
-            Tile tileRight = Ctrl.getTileRight();
-            Tile tileDown = Ctrl.getTileDown();
-
-            if (tileLeft.Content != null)
+            switch (side)
             {
-                if (tileLeft.Content is EnnemyContent)
-                {
-                    str = "Attacked ennemy";
-                    //displays the text
-                    WriteStory(str);
-                    tileLeft.Content = null;
-                    Draw();
-                }
+                case "E":
+                    tileAttacked = Ctrl.getTileLeft();
+                    break;
+
+                case "N":
+                    tileAttacked = Ctrl.getTileUp();
+                    break;
+
+                case "W":
+                    tileAttacked = Ctrl.getTileRight();
+                    break;
+
+                case "S":
+                    tileAttacked = Ctrl.getTileDown();
+                    break;
+
+                default:
+                    tileAttacked = new Tile(-1,-1);
+                    break;
             }
 
-            if (tileUp.Content != null)
+            if (tileAttacked.Content != null)
             {
-                if (tileUp.Content is EnnemyContent)
+                if (tileAttacked.Content is EnnemyContent)
                 {
                     str = "Attacked ennemy";
                     //displays the text
                     WriteStory(str);
-                    tileUp.Content = null;
+                    tileAttacked.Content = null;
                     Draw();
+                }
+                else
+                {
+                    WriteStory("This is not an enemy!");
                 }
             }
-
-            if (tileRight.Content != null)
+            else
             {
-                if (tileRight.Content is EnnemyContent)
-                {
-                    str = "Attacked ennemy";
-                    //displays the text
-                    WriteStory(str);
-                    tileRight.Content = null;
-                    Draw();
-                }
-
-                else if (tileRight.Content is StairsContent)
-                {
-                    str = "Attacked ennemy";
-                    //displays the text
-                    WriteStory(str);
-                    tileRight.Content = null;
-                    Draw();
-                }
-            }
-
-            if (tileDown.Content != null)
-            {
-                if (tileDown.Content is EnnemyContent)
-                {
-                    str = "Attacked ennemy";
-                    //displays the text
-                    WriteStory(str);
-                    tileDown.Content = null;
-                    Draw();
-                }
+                WriteStory("There's nothing to attack");
             }
         }
 
@@ -760,7 +763,7 @@ namespace DepthsOfWinPreFon
             //***  ATTACK
             if (e.Key == Key.A)
             {
-                Attack();
+                AskForAttack();
             }
         }
 
@@ -807,13 +810,36 @@ namespace DepthsOfWinPreFon
 
         private void btnAttack_Click(object sender, RoutedEventArgs e)
         {
-            Attack();
+            AskForAttack();
         }
 
         private void Window_Closed(object sender, EventArgs e)
         {
             //Closing the game when the mainWindow is closed
             Application.Current.Shutdown();
+        }
+
+        private void txtSay_KeyUp(object sender, KeyEventArgs e)
+        {
+            if (e.Key == Key.Enter)
+            {
+                WriteStory(Ctrl.myHero.Name + " says \"" + txtSay.Text + "\"");
+
+                if (Ctrl.CurrentQuestion == null)
+                {
+                    WriteStory("But nothing happens!");
+                }
+                else if (Ctrl.CurrentQuestion.PossibleAnswers.Contains(txtSay.Text.ToUpper()))
+                {
+                    Ctrl.CurrentQuestion.QuestionReaction(txtSay.Text.ToUpper());
+                }
+                else 
+                {
+                    WriteStory(" \"" + txtSay.Text + "\" is not a valid answer.");
+                    WriteStory(Ctrl.CurrentQuestion.ToString());
+                }
+                txtSay.Text = "";
+            }
         }
     }
 }

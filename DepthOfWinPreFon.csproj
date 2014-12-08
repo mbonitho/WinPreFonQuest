@@ -60,10 +60,14 @@
     <Compile Include="BusinessObjects\Hero.cs" />
     <Compile Include="BusinessObjects\WorldMap.cs" />
     <Compile Include="Controllers\Controller.cs" />
+    <Compile Include="Controllers\Question.cs" />
     <Compile Include="GUIHelper\LabelExtensions.cs" />
     <Compile Include="BusinessObjects\Map.cs" />
     <Compile Include="Sprites\WorldMapSprites\SeaSprite.xaml.cs">
       <DependentUpon>SeaSprite.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Views\BattleView.xaml.cs">
+      <DependentUpon>BattleView.xaml</DependentUpon>
     </Compile>
     <Compile Include="Views\MapsHolder.cs" />
     <Compile Include="Sprites\WorldMapSprites\TreesSprite.xaml.cs">
@@ -125,6 +129,10 @@
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Sprites\WorldMapSprites\SeaSprite.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Views\BattleView.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

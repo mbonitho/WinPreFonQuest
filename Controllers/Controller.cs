@@ -13,6 +13,8 @@ namespace DepthsOfWinPreFon.Controllers
         public Map CurrentMap {get; set;}
         public Hero myHero { get; set; }
 
+        public Question CurrentQuestion { get; set; }
+
         public int StatPointsToDispatch { get; set; }
 
         /// <summary>
