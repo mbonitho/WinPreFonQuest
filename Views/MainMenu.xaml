@@ -24,19 +24,19 @@
         <Label x:Name="lblCharacteristics" Content="Characteristics :" HorizontalAlignment="Left" Margin="10,181,0,0" VerticalAlignment="Top" FontWeight="Bold" Visibility="Hidden"/>
 
         <Label x:Name="lblStr" Content="Strength :" HorizontalAlignment="Left" Margin="10,201,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
-        <TextBox x:Name="txtStr" Text="5" HorizontalAlignment="Left" Margin="90,201,0,0" VerticalAlignment="Top" Width="15" Visibility="Hidden"/>
-        <Button x:Name="btnStrPlus" Content="+" HorizontalAlignment="Left" Margin="110,201,0,0" VerticalAlignment="Top" Width="15" Visibility="Hidden"/>
-        <Button x:Name="btnStrMinus" Content="-" HorizontalAlignment="Left" Margin="130,201,0,0" VerticalAlignment="Top" Width="15" Visibility="Hidden"/>
+        <TextBox x:Name="txtStr" Text="5" HorizontalAlignment="Left" Margin="90,201,0,0" VerticalAlignment="Top" Width="20" Visibility="Hidden"/>
+        <Button x:Name="btnStrPlus" Content="+" HorizontalAlignment="Left" Margin="115,201,0,0" VerticalAlignment="Top" Width="15" Visibility="Hidden"/>
+        <Button x:Name="btnStrMinus" Content="-" HorizontalAlignment="Left" Margin="135,201,0,0" VerticalAlignment="Top" Width="15" Visibility="Hidden"/>
 
         <Label x:Name="lblDef" Content="Defense :" HorizontalAlignment="Left" Margin="10,221,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
-        <TextBox x:Name="txtDef" Text="5" HorizontalAlignment="Left" Margin="90,221,0,0" VerticalAlignment="Top" Width="15" Visibility="Hidden"/>
-        <Button x:Name="btnDefPlus" Content="+" HorizontalAlignment="Left" Margin="110,221,0,0" VerticalAlignment="Top" Width="15" Visibility="Hidden"/>
-        <Button x:Name="btnDefMinus" Content="-" HorizontalAlignment="Left" Margin="130,221,0,0" VerticalAlignment="Top" Width="15" Visibility="Hidden"/>
+        <TextBox x:Name="txtDef" Text="5" HorizontalAlignment="Left" Margin="90,221,0,0" VerticalAlignment="Top" Width="20" Visibility="Hidden"/>
+        <Button x:Name="btnDefPlus" Content="+" HorizontalAlignment="Left" Margin="115,221,0,0" VerticalAlignment="Top" Width="15" Visibility="Hidden"/>
+        <Button x:Name="btnDefMinus" Content="-" HorizontalAlignment="Left" Margin="135,221,0,0" VerticalAlignment="Top" Width="15" Visibility="Hidden"/>
 
         <Label x:Name="lblAgi" Content="Agility :" HorizontalAlignment="Left" Margin="10,241,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
-        <TextBox x:Name="txtAgi" Text="5" HorizontalAlignment="Left" Margin="90,241,0,0" VerticalAlignment="Top" Width="15" Visibility="Hidden"/>
-        <Button x:Name="btnAgiPlus" Content="+" HorizontalAlignment="Left" Margin="110,241,0,0" VerticalAlignment="Top" Width="15" Visibility="Hidden"/>
-        <Button x:Name="btnAgiMinus" Content="-" HorizontalAlignment="Left" Margin="130,241,0,0" VerticalAlignment="Top" Width="15" Visibility="Hidden"/>
+        <TextBox x:Name="txtAgi" Text="5" HorizontalAlignment="Left" Margin="90,241,0,0" VerticalAlignment="Top" Width="20" Visibility="Hidden"/>
+        <Button x:Name="btnAgiPlus" Content="+" HorizontalAlignment="Left" Margin="115,241,0,0" VerticalAlignment="Top" Width="15" Visibility="Hidden"/>
+        <Button x:Name="btnAgiMinus" Content="-" HorizontalAlignment="Left" Margin="135,241,0,0" VerticalAlignment="Top" Width="15" Visibility="Hidden"/>
 
         <Label x:Name="lblPointsToDispatch" Content="(5 points to dispatch)" HorizontalAlignment="Left" Margin="10,261,0,0" VerticalAlignment="Top" Visibility="Hidden"/>
 

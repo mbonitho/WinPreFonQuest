@@ -20,9 +20,28 @@ namespace DepthsOfWinPreFon.Views
     /// </summary>
     public partial class BattleView : UserControl
     {
-        public BattleView()
+        public EnemyContent Enemy { get; set; }
+
+        public BattleView(EnemyContent enemy)
         {
             InitializeComponent();
+
+            this.Enemy = enemy;
+        }
+
+        public void StartScrollingEnemyAppearanceAnimation()
+        {
+            var enemySprite = Enemy.Sprite.GetSprite().Cl;
+
+            this.MainGrid.Children.Add(enemySprite);
+
+            for (int i = 0; i < 400; i++)
+            {
+                enemySprite.Margin = new Thickness(i, 0, 0, 0);
+
+                //Wait to slow down animation
+                System.Threading.Thread.Sleep(75);
+            }
         }
     }
 }

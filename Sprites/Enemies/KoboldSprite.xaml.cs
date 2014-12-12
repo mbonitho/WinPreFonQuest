@@ -13,16 +13,23 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
+using DepthsOfWinPreFon.Interfaces;
+
 namespace DepthsOfWinPreFon.Sprites
 {
     /// <summary>
     /// Logique d'interaction pour KoboldSprite.xaml
     /// </summary>
-    public partial class KoboldSprite : UserControl
+    public partial class KoboldSprite : UserControl, IEnemySprite
     {
         public KoboldSprite()
         {
             InitializeComponent();
+        }
+
+        public UserControl GetSprite() 
+        {
+            return this;
         }
     }
 }

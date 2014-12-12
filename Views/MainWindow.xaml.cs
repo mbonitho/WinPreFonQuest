@@ -218,14 +218,19 @@ namespace DepthsOfWinPreFon
         /// <summary>
         /// TODO Displays the battle view on the window
         /// </summary>
-        private void DisplayBattleView()
+        private void DisplayBattleView(EnemyContent enemy)
         {
-            battleView = new BattleView();
-            battleView.Margin = new Thickness(10);
+            battleView = new BattleView(enemy);
+            battleView.Margin = new Thickness(70, 10, 70, 10);
             //battleView.lblNewGame.MouseUp += lblNewGame_MouseUp;
-            Grid.SetColumnSpan(menu, 2);
-            Grid.SetRowSpan(menu, 2);
-            this.WindowGrid.Children.Add(menu);
+            Grid.SetRow(battleView, 0);
+            Grid.SetColumn(battleView, 0);
+            Grid.SetColumnSpan(battleView, 1);
+            Grid.SetRowSpan(battleView, 1);
+            this.WindowGrid.Children.Add(battleView);
+
+            //todo enemy appearance animation
+            battleView.StartScrollingEnemyAppearanceAnimation();
         }
 
         private void Window_ContentRendered(object sender, EventArgs e)
@@ -394,13 +399,19 @@ namespace DepthsOfWinPreFon
                             Grid.SetRow(chest_sprite, j);
                             Grid.SetColumn(chest_sprite, i);
                         }
-                        else if (tile.Content is EnnemyContent)
+                        else if (tile.Content is EnemyContent)
                         {
-                            //KoboldSprite
-                            Sprites.KoboldSprite Kobold_sprite = new Sprites.KoboldSprite();
-                            gridMap.Children.Add(Kobold_sprite);
-                            Grid.SetRow(Kobold_sprite, j);
-                            Grid.SetColumn(Kobold_sprite, i);
+                            EnemyContent foe = tile.Content as EnemyContent;
+                            var sprite = foe.Sprite.GetSprite();
+                            gridMap.Children.Add(sprite);
+                            Grid.SetRow(sprite, j);
+                            Grid.SetColumn(sprite, i);
+
+                            ////KoboldSprite
+                            //Sprites.KoboldSprite Kobold_sprite = new Sprites.KoboldSprite();
+                            //gridMap.Children.Add(Kobold_sprite);
+                            //Grid.SetRow(Kobold_sprite, j);
+                            //Grid.SetColumn(Kobold_sprite, i);
                         }
                         else if (tile.Content is StairsContent)
                         {
@@ -475,7 +486,7 @@ namespace DepthsOfWinPreFon
                     //If hero has a key to open the grid
                     if (Ctrl.myHero.Keys > 0)
                     {
-                        WriteStory("Opened the grid with a key"); //TODO Refactor the "opening grid with key code"
+                        WriteStory("Opened the grid with a key"); //TODO Refactor the "opening grid with key" code
                         Ctrl.myHero.Keys--;
                         tileLeft.Content = null;
                         Draw();
@@ -493,7 +504,7 @@ namespace DepthsOfWinPreFon
                     Draw();
                 }  
 
-                else if (tileLeft.Content is EnnemyContent)
+                else if (tileLeft.Content is EnemyContent)
                 {
                     str = "There is an ennemy west of me";
                     //displays the text
@@ -537,7 +548,7 @@ namespace DepthsOfWinPreFon
                     Draw();
                 }
 
-                else if (tileUp.Content is EnnemyContent)
+                else if (tileUp.Content is EnemyContent)
                 {
                     str = "There is an ennemy north of me";
                     //displays the text
@@ -581,7 +592,7 @@ namespace DepthsOfWinPreFon
                     Draw();
                 }
 
-                else if (tileRight.Content is EnnemyContent){
+                else if (tileRight.Content is EnemyContent){
                     str = "There is an ennemy east of me";
                     //displays the text
                     WriteStory(str);
@@ -623,7 +634,7 @@ namespace DepthsOfWinPreFon
                     Draw();
                 }
 
-                else if (tileDown.Content is EnnemyContent)
+                else if (tileDown.Content is EnemyContent)
                 {
                     str = "There is an ennemy south of me";
                     //displays the text
@@ -677,9 +688,14 @@ namespace DepthsOfWinPreFon
 
             if (tileAttacked.Content != null)
             {
-                if (tileAttacked.Content is EnnemyContent)
+                if (tileAttacked.Content is EnemyContent)
                 {
-                    str = "Attacked ennemy";
+                    str = "Battle engaged with enemy !";
+
+                    DisplayBattleView(tileAttacked.Content as EnemyContent);
+
+                    //TODO battle logic
+
                     //displays the text
                     WriteStory(str);
                     tileAttacked.Content = null;

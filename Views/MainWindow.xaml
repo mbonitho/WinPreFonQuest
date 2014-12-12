@@ -127,7 +127,7 @@
                     <RowDefinition/>
                     <RowDefinition/>
                 </Grid.RowDefinitions>
-                <Button x:Name="btnAttack" MaxHeight="60" Content="Atk" Grid.Column="1" HorizontalAlignment="Stretch" Margin="0,0,0,0" Grid.Row="0" VerticalAlignment="Stretch" Click="btnAttack_Click"/>
+                <Button x:Name="btnAttack" MaxHeight="60" Content="Atk" Grid.Column="1" HorizontalAlignment="Stretch" Margin="0,0,0,0" Grid.Row="0" VerticalAlignment="Bottom" Click="btnAttack_Click" Height="32"/>
                 <Button x:Name="btnDefend" MaxHeight="60" Content="Def" Grid.Column="0" HorizontalAlignment="Stretch" Margin="0,0,0,0" Grid.Row="0" VerticalAlignment="Stretch"/>
                 <Button x:Name="btnSleep" MaxHeight="60" Content="Sleep" Grid.Column="3" HorizontalAlignment="Stretch" Margin="0,0,0,0" Grid.Row="0" VerticalAlignment="Stretch"/>
                 <Button x:Name="btnSave" MaxHeight="60" Content="Save" Grid.Column="4" HorizontalAlignment="Stretch" Margin="0,0,0,0" Grid.Row="0" VerticalAlignment="Stretch"/>

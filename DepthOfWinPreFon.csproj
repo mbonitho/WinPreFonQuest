@@ -63,6 +63,7 @@
     <Compile Include="Controllers\Question.cs" />
     <Compile Include="GUIHelper\LabelExtensions.cs" />
     <Compile Include="BusinessObjects\Map.cs" />
+    <Compile Include="Interfaces\IEnemySprite.cs" />
     <Compile Include="Sprites\WorldMapSprites\SeaSprite.xaml.cs">
       <DependentUpon>SeaSprite.xaml</DependentUpon>
     </Compile>

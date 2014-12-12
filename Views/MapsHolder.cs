@@ -43,10 +43,11 @@ namespace DepthsOfWinPreFon
             //Contents
             D1F0.getTileAt(6, 6).Content = new GridContent();
             D1F0.getTileAt(10, 0).Content = new ChestContent() { Item = ChestContent.ChestItem.KEY };
-            D1F0.getTileAt(6, 7).Content = new EnnemyContent();
+            D1F0.getTileAt(6, 7).Content = new EnemyContent("Kobold",18,10,4, new DepthsOfWinPreFon.Sprites.KoboldSprite());
             D1F0.getTileAt(1, 19).Content = new ChestContent() { Item = ChestContent.ChestItem.GOLD };
             D1F0.getTileAt(10, 8).Content = new StairsContent() { nextMap = W1 };
 
+            D1F0.getTileAt(3, 3).Content = new EnemyContent("Kobold", 18, 10, 4, new DepthsOfWinPreFon.Sprites.KoboldSprite());
 
             //****************************************************************************************************
             //Adding the maps to the list
